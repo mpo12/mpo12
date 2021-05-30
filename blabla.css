@@ -1,0 +1,112 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h{
+    padding-top: 30px ;
+    padding-left : 200px ;
+    padding-bottom: 30px ;
+    color :   ;
+    display : none ;
+}
+
+.tall1{
+    height: 20px ; 
+    width: 150px ;
+    background: #fff ;
+    margin-top: 30px ;
+    margin-left: 100px ;
+    position: relative ;
+}
+
+.tall2{
+    height: 50px ; 
+    width: 100px ;
+    background: blue ;
+    margin-top: 200px ;
+    margin-left: 50px ;
+    float: left ;
+    text-align: center;
+    font-size: 400% ;
+    position: relative ;
+
+}
+
+.tall3{
+    height: 050px ; 
+    width: 100px ;
+    background: orange ;
+    margin-top: 10px ;
+    margin-left: -90px ;
+    float: left ;
+    text-align: center;
+    font-size: 400% ;
+}
+
+
+.tall4{
+    height: 50px ; 
+    width: 100px ;
+    background: blue ;
+    margin-top: 100px ;
+    margin-left: 50px ;
+    float: left ;
+    text-align: center;
+    font-size: 400% ;
+}
+
+
+.tall5{
+    height: 50px ; 
+    width: 100px ;
+    background: orange ;
+    margin-top: 100px ;
+    margin-left: -400px ;
+    float: left ;
+    text-align: center;
+    font-size: 400% ;
+}
+
+
+.az{
+    height: 800px ; 
+    width: 800px ;
+    background: black ;
+    margin-left: 120px ;
+    border : 5px solid red;
+}
+
+.booot{
+    margin-left: 200px ;
+}
+
+.img1{
+height: 100px;
+width: 100px;
+}
+
+#food{
+background : "red";
+height: 100px;
+width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
